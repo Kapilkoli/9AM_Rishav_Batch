@@ -4,12 +4,12 @@ public class Classdayfour {
 
 	// EXAMPLE OF IMPLICIT CONVERSION
 	public static void main(String[] args) {
-		
-		int a=10;
+
+		int a = 10;
 		float f;
-		
-		f=a;
+
+		f = a;
 		System.out.println(+f);
-		
+
 	}
 }
